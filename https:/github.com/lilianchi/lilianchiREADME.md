@@ -5,6 +5,7 @@
 - 📊 My professional skills include Python, R, SQL, Excel, SAS.
 - 🙏 I’m looking for a full-time job: business analyst/ data analyst.
 - 📫 contact me via LinkedIn - https://www.linkedin.com/in/li-chi-lilian-chuang-a985b511a/
+- 🔖 Or see more information about me - https://share.streamlit.io/lilianchi/resume/main
 
 <!---
 lilianchi/lilianchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
