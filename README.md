@@ -3,7 +3,7 @@
 - 👀 I’m interested in business analytics, analyzing data and visualization.
 - 🎓 I graduated from Purdue Universirty in May with @BAIM master program (Business Analytics and Information Management)
 - 📊 My professional skills include Python, SQL, R, MS Excel, Power BI, Tableau and SAS.
-- 🙏 I’m looking for a full-time job: business analyst/ data analyst.
+- 🙏 I’m looking for a full-time job: data analyst/ data scientist/ business analyst.
 - 📫 contact me via LinkedIn - https://www.linkedin.com/in/lilian-chuang/
 - 🔖 Or see more information about me - https://share.streamlit.io/lilianchi/resume/main
 
