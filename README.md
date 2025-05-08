@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lilian Chuang from Taiwan.
-- 💪/ 🍩 I enjoy workout and donuts.
-- 👀 I’m interested in analyzing data, visualization and driving business insights.
+- 🩷 My Favorite color is pink.
+- 💪/ 🥣/ 🍩 I enjoy workout, hoppot, and donuts.
+- 👀 I’m passionate about analyzing data, visualization and driving business insights.
 - 🎓 I graduated from Purdue Universirty in 2022 May with @BAIM master program (Business Analytics and Information Management)
 - 📊 My professional skills include Python, SQL, R, MS Excel, Power BI, Tableau and SAS.
 - 👩🏻‍💻 I’m a Senior data analyst at Cardlytics, and I enjoy my work!
